@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/kshvakov/clickhouse/lib/binary"
-	columns "github.com/kshvakov/clickhouse/lib/column"
+	"github.com/Upliner/clickhouse/lib/binary"
+	columns "github.com/Upliner/clickhouse/lib/column"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -13,11 +13,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/kshvakov/clickhouse/lib/binary"
-	"github.com/kshvakov/clickhouse/lib/column"
-	"github.com/kshvakov/clickhouse/lib/data"
-	"github.com/kshvakov/clickhouse/lib/protocol"
-	"github.com/kshvakov/clickhouse/lib/types"
+	"github.com/Upliner/clickhouse/lib/binary"
+	"github.com/Upliner/clickhouse/lib/column"
+	"github.com/Upliner/clickhouse/lib/data"
+	"github.com/Upliner/clickhouse/lib/protocol"
+	"github.com/Upliner/clickhouse/lib/types"
 )
 
 type (

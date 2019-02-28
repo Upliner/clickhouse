@@ -15,11 +15,11 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/kshvakov/clickhouse/lib/leakypool"
+	"github.com/Upliner/clickhouse/lib/leakypool"
 
-	"github.com/kshvakov/clickhouse/lib/binary"
-	"github.com/kshvakov/clickhouse/lib/data"
-	"github.com/kshvakov/clickhouse/lib/protocol"
+	"github.com/Upliner/clickhouse/lib/binary"
+	"github.com/Upliner/clickhouse/lib/data"
+	"github.com/Upliner/clickhouse/lib/protocol"
 )
 
 const (

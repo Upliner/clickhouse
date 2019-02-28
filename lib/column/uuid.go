@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/kshvakov/clickhouse/lib/binary"
+	"github.com/Upliner/clickhouse/lib/binary"
 )
 
 const UUIDLen = 16

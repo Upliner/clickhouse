@@ -6,7 +6,7 @@ import (
 	"database/sql/driver"
 	"unicode"
 
-	"github.com/kshvakov/clickhouse/lib/data"
+	"github.com/Upliner/clickhouse/lib/data"
 )
 
 type stmt struct {

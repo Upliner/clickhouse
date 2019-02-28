@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/kshvakov/clickhouse/lib/binary"
+	"github.com/Upliner/clickhouse/lib/binary"
 )
 
 type Array struct {
